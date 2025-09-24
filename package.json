@@ -7,7 +7,7 @@
     "build": "npm run build",
     "test": "npm test"
   },
-  "keywords": ["ui", "component", "design system", "vietnamese"],
+  "keywords": ["ui", "component", "design system", "vietnamese", "toolkit"],
   "author": "Đội ngũ phát triển",
   "license": "MIT",
   "dependencies": {}
