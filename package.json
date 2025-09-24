@@ -1,6 +1,6 @@
 {
   "name": "he-thong-thiet-ke-vnm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive toolkit for creating UI components specifically tailored for modern web development in Vietnam.",
   "main": "index.js",
   "scripts": {
