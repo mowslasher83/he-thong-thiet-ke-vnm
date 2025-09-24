@@ -1,0 +1,14 @@
+{
+  "name": "he-thong-thiet-ke-vnm",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế VNM - Bộ công cụ và thành phần UI.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build",
+    "test": "npm test"
+  },
+  "keywords": ["ui", "component", "design system", "vietnamese"],
+  "author": "Đội ngũ phát triển",
+  "license": "MIT",
+  "dependencies": {}
+}
