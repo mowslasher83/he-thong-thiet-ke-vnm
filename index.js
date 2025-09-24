@@ -1,5 +1,5 @@
 export const Button = ({ label, onClick }) => {
-  return `<button>${label}</button>`;
+  return `<button onclick="${onClick}">${label}</button>`;
 };
 
 export const setButtonClick = (element, onClick) => {
