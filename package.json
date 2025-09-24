@@ -1,7 +1,7 @@
 {
   "name": "he-thong-thiet-ke-vnm",
   "version": "1.0.0",
-  "description": "VNM Design System - A comprehensive toolkit and library of UI components designed specifically for modern web development and design in Vietnam.",
+  "description": "A comprehensive UI component toolkit designed for modern web development in Vietnam.",
   "main": "index.js",
   "scripts": {
     "build": "npm run build",
