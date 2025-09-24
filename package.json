@@ -10,5 +10,6 @@
   "keywords": ["ui", "component", "design system", "vietnamese", "toolkit"],
   "author": "Đội ngũ phát triển",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://example.com/he-thong-thiet-ke-vnm"
 }
