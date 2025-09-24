@@ -1,7 +1,7 @@
 {
   "name": "he-thong-thiet-ke-vnm",
   "version": "1.0.0",
-  "description": "Hệ thống thiết kế VNM - Bộ công cụ và thành phần UI.",
+  "description": "Hệ thống thiết kế VNM - Bộ công cụ và thành phần giao diện người dùng.",
   "main": "index.js",
   "scripts": {
     "build": "npm run build",
