@@ -1,2 +1,3 @@
 export const Button = ({ label, onClick }) => {
-  return `<button onclick=\
+  return `<button onclick="${onClick}">${label}</button>`;
+};
